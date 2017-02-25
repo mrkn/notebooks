@@ -4,5 +4,5 @@
 
 ```
 $ bundle install
-$ bin/iruby notebook
+$ bundle exec iruby notebook
 ```
