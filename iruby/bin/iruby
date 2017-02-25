@@ -1,0 +1,6 @@
+#! /bin/bash
+
+export LIBZMQ_PATH=$(brew --prefix zeromq)/lib
+export LIBCZMQ_PATH=$(brew --prefix czmq)/lib
+
+bundle exec iruby "$@"

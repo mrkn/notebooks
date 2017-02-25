@@ -1,0 +1,6 @@
+source 'https://rubygems.org/'
+
+gem 'iruby', github: 'sciruby/iruby'
+gem 'cztop', github: 'paddor/cztop'
+gem 'pycall', github: 'mrkn/pycall'
+gem 'pry'
